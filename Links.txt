@@ -1,0 +1,5 @@
+Ссылка на задание:
+https://github.com/netology-code/py-homeworks-advanced/tree/master/2.Iterators.Generators.Yield
+
+Ссылка на решение на GitHub:
+https://github.com/UgreninovaAlena/Netology_Modul4_Homework2.git
